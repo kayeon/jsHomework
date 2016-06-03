@@ -11,6 +11,7 @@ var node4 = new TreeNode(node1, null, 4);
 var node5 = new TreeNode(node2, node3, 5);
 var node6 = new TreeNode(node4, node5, 6); // root node
 
+// 1, 2, 3 are leaf nodes. 4, 5, 6 are not.
 function isLeaf(node) {
   // TODO
 }
