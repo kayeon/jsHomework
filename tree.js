@@ -15,6 +15,8 @@ function isLeaf(node) {
   // TODO
 }
 
+// Should print out "1, 4, 6, 2, 5, 3"
+// Bonus points: look up the name of this tree ordering
 function printTree(rootNode) {
   // TODO
 }
