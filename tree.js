@@ -1,7 +1,7 @@
 function TreeNode(left, right, data) {
   this.left = left;
   this.right = right;
-  this.data = data
+  this.data = data;
 }
 
 var node1 = new TreeNode(null, null, 1);
